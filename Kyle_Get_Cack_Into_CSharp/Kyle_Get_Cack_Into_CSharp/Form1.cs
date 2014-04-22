@@ -27,28 +27,29 @@ namespace Kyle_Get_Cack_Into_CSharp
             try
             {
 
-            using (StreamReader sr = new StreamReader(textBox1.Text)) 
-            {
-                string line; 
-                while ((line = sr.ReadLine()) != null) 
+                using (StreamReader sr = new StreamReader(textBox1.Text)) 
                 {
-                    passwordChoices.Add(line);
+                    string line; 
+                    while ((line = sr.ReadLine()) != null) 
+                    {
+                        passwordChoices.Add(line);
+                    }
                 }
-            }
-            foreach (string p in passwordChoices)
-            {
-                listBox1.Items.Add(p);
-            }
-            Random kyle = new Random();
-            int picker = kyle.Next(0, (passwordChoices.Count - 1));
+                foreach (string p in passwordChoices)
+                {
+                    listBox1.Items.Add(p);
+                }
+                Random kyle = new Random();
+                int picker = kyle.Next(0, (passwordChoices.Count - 1));
 
-            string one = passwordChoices[picker];
-            picker = kyle.Next(0, (passwordChoices.Count - 1));
-            string two = passwordChoices[picker];
+                string one = passwordChoices[picker];
+                picker = kyle.Next(0, (passwordChoices.Count - 1));
+                string two = passwordChoices[picker];
 
-            string password = one + two;
-            label1.Text = password;
-        }
+                string password = one + two;
+                label1.Text = password;
+                password = null;
+            }
         catch (Exception i) 
         {
             MessageBox.Show(i.Message);

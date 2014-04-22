@@ -7,3 +7,12 @@ c:\users\ksmolinski\documents\visual studio 2012\Projects\Kyle_Get_Cack_Into_CSh
 c:\users\ksmolinski\documents\visual studio 2012\Projects\Kyle_Get_Cack_Into_CSharp\Kyle_Get_Cack_Into_CSharp\obj\Debug\Kyle_Get_Cack_Into_CSharp.csproj.GenerateResource.Cache
 c:\users\ksmolinski\documents\visual studio 2012\Projects\Kyle_Get_Cack_Into_CSharp\Kyle_Get_Cack_Into_CSharp\obj\Debug\Kyle_Get_Cack_Into_CSharp.exe
 c:\users\ksmolinski\documents\visual studio 2012\Projects\Kyle_Get_Cack_Into_CSharp\Kyle_Get_Cack_Into_CSharp\obj\Debug\Kyle_Get_Cack_Into_CSharp.pdb
+C:\Users\ksmolinski\Git Source\Kyle_Get_Cack_Into_CSharp\Kyle_Get_Cack_Into_CSharp\bin\Debug\Kyle_Get_Cack_Into_CSharp.exe.config
+C:\Users\ksmolinski\Git Source\Kyle_Get_Cack_Into_CSharp\Kyle_Get_Cack_Into_CSharp\obj\Debug\Kyle_Get_Cack_Into_CSharp.exe
+C:\Users\ksmolinski\Git Source\Kyle_Get_Cack_Into_CSharp\Kyle_Get_Cack_Into_CSharp\obj\Debug\Kyle_Get_Cack_Into_CSharp.pdb
+C:\Users\ksmolinski\Git Source\Kyle_Get_Cack_Into_CSharp\Kyle_Get_Cack_Into_CSharp\bin\Debug\Kyle_Get_Cack_Into_CSharp.exe
+C:\Users\ksmolinski\Git Source\Kyle_Get_Cack_Into_CSharp\Kyle_Get_Cack_Into_CSharp\bin\Debug\Kyle_Get_Cack_Into_CSharp.pdb
+C:\Users\ksmolinski\Git Source\Kyle_Get_Cack_Into_CSharp\Kyle_Get_Cack_Into_CSharp\obj\Debug\Kyle_Get_Cack_Into_CSharp.csprojResolveAssemblyReference.cache
+C:\Users\ksmolinski\Git Source\Kyle_Get_Cack_Into_CSharp\Kyle_Get_Cack_Into_CSharp\obj\Debug\Kyle_Get_Cack_Into_CSharp.Form1.resources
+C:\Users\ksmolinski\Git Source\Kyle_Get_Cack_Into_CSharp\Kyle_Get_Cack_Into_CSharp\obj\Debug\Kyle_Get_Cack_Into_CSharp.Properties.Resources.resources
+C:\Users\ksmolinski\Git Source\Kyle_Get_Cack_Into_CSharp\Kyle_Get_Cack_Into_CSharp\obj\Debug\Kyle_Get_Cack_Into_CSharp.csproj.GenerateResource.Cache
